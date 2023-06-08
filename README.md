@@ -29,6 +29,9 @@ Stats
 </a>
 <br />
 <a href="https://stackoverflow.com/users/702931/robrich?tab=tags">
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/c%23/702931?theme=default" alt="robrich's StackOverflow ranking for c#">
+</a>
+<a href="https://stackoverflow.com/users/702931/robrich?tab=tags">
   <img src="https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/asp.net-mvc/702931?theme=default" alt="robrich's StackOverflow ranking for ASP.NET">
 </a>
 <a href="https://stackoverflow.com/users/702931/robrich?tab=tags">
