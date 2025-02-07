@@ -49,28 +49,30 @@ Awards
 ------
 
 - Docker Tip of the Captain’s Hat award, 2022
-- AZGive Camp [Founders Award](http://www.azgivecamp.org/about-us/), 2015 and 2016
-- Core contributor to [gulp](http://gulpjs.com/) v2 and v3
+- AZGive Camp [Founders Award](https://www.azgivecamp.org/about-us/), 2015 and 2016
+- Core contributor to [gulp](https://gulpjs.com/) v2 and v3
 - .NET Rocks [mug recipient](https://www.dotnetrocks.com/default.aspx?showNum=960)
+- Sessionize [Most Active Speaker](https://sessionize.com/robrich/), 2022, 2023, 2024
 
 Associations
 ------------
 
-- Part of the [AZGiveCamp](http://www.azgivecamp.org/) organizers since 2010
+- Part of the [AZGiveCamp](https://www.azgivecamp.org/) organizers since 2010
 - [Docker Captain](https://www.docker.com/captains/rob-richardson) since 2021
-- [Microsoft MVP](http://mvp.microsoft.com/en-us/mvp/Rob%20Richardson-5000872) in ASP.NET since 2014
+- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5000872) in IIS/ASP.NET since 2014
 - Microsoft Certified Trainer since 2022
-- [Friend of Red Gate](https://www.red-gate.com/hub/events/friends-of-rg/friend/rob.richardson) since 2009
+- [Redgate Community Ambassadors](https://www.red-gate.com/hub/events/friends-of-rg/friend/rob.richardson) (formerly Friend of Redgate) since 2009
+- [Cypress Ambassadors](https://www.cypress.io/ambassadors#list) since 2024
 - [Microsoft Partner: Silver Independent Software Vendor](https://pinpoint.microsoft.com/en-US/partners/Richardson-Sons-LLC-4295882027) since 2005
-- [Red Gate Database Delivery Panel](https://www.red-gate.com/delivery/panel) 2013-2014
-- Leader, [Southeast Valley .NET User Group](https://www.meetup.com/sevdnug/) since 2013
-- Leader, [Utah County .NET User Group](https://www.meetup.com/utah-county-net-user-group/) since 2021
+- [Redgate Database Delivery Panel](https://www.red-gate.com/delivery/panel) 2013-2014
+- Leader, [Southeast Valley .NET User Group](https://www.meetup.com/sevdnug/) 2013-2023
+- Leader, [Utah County .NET User Group](https://www.meetup.com/utah-county-net-user-group/) 2021-2023
 
 Publications
 ------------
 
 - Co-Author, [Pro Microservices in .NET 6: With Examples Using ASP.NET Core 6, MassTransit, and Kubernetes](https://www.amazon.com/Pro-Microservices-NET-MassTransit-Kubernetes/dp/1484278321)
-- Co-Author, SQL Source Control Basics: [download eBook](http://red-gate-1.hs-sites.com/free-ebook-sql-server-source-control-basics) | [buy on Amazon](https://www.amazon.com/SQL-Server-Source-Control-Basics/dp/1910035017)
+- Co-Author, SQL Source Control Basics: [download eBook](https://www.red-gate.com/library/sql-server-source-control-basics) | [buy on Amazon](https://www.amazon.com/SQL-Server-Source-Control-Basics/dp/1910035017)
 
 Skills
 ------
