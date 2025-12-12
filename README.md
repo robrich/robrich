@@ -72,6 +72,7 @@ Associations
 Publications
 ------------
 
+- Co-Author, [Pro Microservices in .NET 10: A Holistic Approach to Building Microservices in C#](https://www.amazon.com/Pro-Microservices-NET-10-Holistic/dp/B0FN6Z1ZJ4)
 - Co-Author, [Pro Microservices in .NET 6: With Examples Using ASP.NET Core 6, MassTransit, and Kubernetes](https://www.amazon.com/Pro-Microservices-NET-MassTransit-Kubernetes/dp/1484278321)
 - Co-Author, SQL Source Control Basics: [download eBook](https://www.red-gate.com/library/sql-server-source-control-basics) | [buy on Amazon](https://www.amazon.com/SQL-Server-Source-Control-Basics/dp/1910035017)
 
