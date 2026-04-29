@@ -52,7 +52,7 @@ Awards
 - AZGive Camp [Founders Award](https://www.azgivecamp.org/about-us/), 2015 and 2016
 - Core contributor to [gulp](https://gulpjs.com/) v2 and v3
 - .NET Rocks [mug recipient](https://www.dotnetrocks.com/default.aspx?showNum=960)
-- Sessionize [Most Active Speaker](https://sessionize.com/robrich/), 2022, 2023, 2024
+- Sessionize [Most Active Speaker](https://sessionize.com/robrich/), 2022, 2023, 2024, 2025
 - Sessionize Speaker of the Day, March 7, 2025
 
 Associations
